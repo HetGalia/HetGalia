@@ -1,13 +1,9 @@
 ### Hey!👋, I am Het Galia 
 
-## I'm a Computer Engineer and a Data scientist aspirant!!
+## I'm a Computer Engineer and a Data science aspirant!!
 
 - 🌱 I’m currently working on conversational AI
 - 🔭 I'm passionate about learning data security as well.
-- 📬 You can reach me via [E-mail](mailto:hetgalia21@gmail.com) as well😁
-
-
-
 - 📑 Know about my experiences through my [Resume](https://drive.google.com/file/d/1hbTHSqCuo_rqudTI6Gj_tMk-I_Kykttu/view?usp=sharing).
 
 ### Connect with me:
@@ -15,6 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/het-galia-h2r1g07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het-galia-h2r1g07" height="30" width="40" /></a>
 <a href="https://twitter.com/GaliaHet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@GaliaHet" height="30" width="40" /></a>
+<a href="hetgalia21@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hetgalia21@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
