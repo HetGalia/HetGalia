@@ -4,7 +4,10 @@
 
 - 🌱 I’m currently working on conversational AI
 - 🔭 I'm passionate about learning data security as well.
-- 📬 You can reach me via [E-mail](hetgalia21@gmail.com) as well
+- 📬 You can reach me via [E-mail](mailto:hetgalia21@gmail.com) as well😁
+
+
+
 - 📑 Know about my experiences through my [Resume](https://drive.google.com/file/d/1hbTHSqCuo_rqudTI6Gj_tMk-I_Kykttu/view?usp=sharing).
 
 ### Connect with me:
