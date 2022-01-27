@@ -1,8 +1,8 @@
 ### Hey!👋, I am Het Galia 
 
-## I'm a Computer Engineer and a Data science aspirant!!
+## I'm a Computer Engineer!!
 
-- 🔭 I'm passionate about learning data security.
+- 🔭 I'm passionate about learning data security, networking and Data Science.
 - 📬 Also you can reach me via E-mail : **hetgalia21@gmail.com**
 - 📑 Know about my experiences through my [Resume](https://drive.google.com/file/d/1hbTHSqCuo_rqudTI6Gj_tMk-I_Kykttu/view?usp=sharing).
 
